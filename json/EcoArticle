@@ -1,0 +1,69 @@
+[{
+        "ecodesignEfficiencyArticle": [{
+                "entryTitle": "Article DOL motor efficiency (Case)",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...\n",
+                "link": "http://abbhvac.blogspot.com/",
+                "id": "14sA9IWA22TdJN70rJsHRU"
+            }, {
+                "entryTitle": "Article Drive Efficiency (CDM) (Article)",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...\n",
+                "link": "http://abbhvac.blogspot.com/",
+                "id": "2VKCIYQXlTCnml96My4oZ"
+            }
+        ],
+        "ecodesignArticle": [{
+                "entryTitle": "Ecodesign for motors and drives",
+                "type": "Brochure",
+                "description": "ABB motors and drives are ready for the EU Ecodesign requirements. Find out how they can help you save energy.\n",
+                "imageMedia": {
+                    "contentType": "image/jpeg",
+                    "fileName": "Ecodesign_ebrochure.jpg",
+                    "url": "//images.ctfassets.net/7kk2qjzio206/66QN7hlVkEjT9ZcIHIRv2K/10e80d330a6a789bfbb270729805eb2d/Ecodesign_ebrochure.jpg",
+                    "id": "66QN7hlVkEjT9ZcIHIRv2K"
+                },
+                "link": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108373&LanguageCode=en&DocumentPartId=&Action=Launch",
+                "updateDate": "2021-10-26T21:00:00+00:00",
+                "id": "1luwUOI6cn5y6XLP9hUI1b"
+            }, {
+                "entryTitle": "EU Ecodesign Regulation for motors and drives",
+                "type": "WebPage",
+                "description": "Learn more about what the new Ecodesign requirements mean for your motors and drives, your business, and how ABB can help you ensure compliance.",
+                "imageMedia": {
+                    "contentType": "image/jpeg",
+                    "fileName": "Picture 1.jpg",
+                    "url": "//images.ctfassets.net/7kk2qjzio206/2QxqkASduBRW0s9mh1YbSB/a14f7bd6f4f28518bb2db40a571b0b38/Picture_1.jpg",
+                    "id": "2QxqkASduBRW0s9mh1YbSB"
+                },
+                "link": "https://new.abb.com/motors-generators/ecodesign-motors-drives",
+                "updateDate": "2021-10-26T21:00:00+00:00",
+                "id": "1tXXfNBxziZhDQwfsmaXh8"
+            }, {
+                "entryTitle": "Commission Regulation EU 2019/1781 setting new requirements for electric motors and variable speed drives",
+                "type": "Brochure",
+                "description": "Commission Regulation EU 2019/1781 setting new requirements for electric motors and variable speed drives.\nEU member countries have agreed about the new and more demanding requirements in the new regulation EU 2019/1781 repealing and replacing Regulation 640/2009. The implementation will be done in two steps on 1st of July 2021 and 1st of July 2023.\n",
+                "imageMedia": {
+                    "contentType": "image/jpeg",
+                    "fileName": "Picture 2.JPG",
+                    "url": "//images.ctfassets.net/7kk2qjzio206/28NAzI7EoTCMcdD6QfTS3M/e5012a99e86b9e149a2761acc1a94302/Picture_2.JPG",
+                    "id": "28NAzI7EoTCMcdD6QfTS3M"
+                },
+                "link": "https://search.abb.com/library/Download.aspx?DocumentID=3AXD50000469048&LanguageCode=en&DocumentPartId=&Action=Launch",
+                "updateDate": "2021-06-09T21:40:00+00:00",
+                "id": "5MptDR8KmtzbLXrQw7aFfS"
+            }, {
+                "entryTitle": "Ecodesign Regulation EU 2019/1781",
+                "type": "ApplicationNote",
+                "description": "Ecodesign frequently asked questions\n",
+                "imageMedia": {
+                    "contentType": "image/jpeg",
+                    "fileName": "FAQ.jpg",
+                    "url": "//images.ctfassets.net/7kk2qjzio206/2Mchm4Jw10v6owCUVI1hZf/05611abaa011fa6792dd76ffb04fd06d/FAQ.jpg",
+                    "id": "2Mchm4Jw10v6owCUVI1hZf"
+                },
+                "link": "https://new.abb.com/motors-generators/ecodesign-motors-drives/ecodesign-faq",
+                "updateDate": "2021-10-26T21:00:00+00:00",
+                "id": "6fqznI0BrFjAfcsWiyUE5T"
+            }
+        ]
+    }
+]
