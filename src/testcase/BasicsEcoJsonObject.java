@@ -16,11 +16,13 @@ import org.testng.Assert;
 import files.ReUsableMethods;
 import files.payload;
 
-public class BasicsEcoLocale {
+public class BasicsEcoJsonObject {
 
 	public static void main(String[] args) throws JSONException {
 		// TODO Auto-generated method stub
-
+// validate if Add Place API is workimg as expected 
+		//Add place-> Update Place with New Address -> Get Place to validate if New address is present in response
+		
 		//given - all input details 
 		//when - Submit the API -resource,http method
 		//Then - validate the response
@@ -28,24 +30,20 @@ public class BasicsEcoLocale {
 		String response=given().log().all().header("Content-Type","application/json")
 		.when().get("api/v1/drives/locales")
 		.then().assertThat().statusCode(200).extract().response().asString();
-	
 		System.out.println(response);
-		//Json array response
-		JSONArray jsonArray = new JSONArray(response);
-	
-		System.out.println("Array length is "+jsonArray.length());
-		JSONObject jsonobject = jsonArray.getJSONObject(0);
-
-		Iterator<String>keys=jsonobject.keys();
+		JSONArray ar=new JSONArray(response);
+		JSONObject ob = ar.getJSONObject(0);
+		System.out.println(ob.length());
+		Iterator<String>keys=ob.keys();
 		while(keys.hasNext())
 		{
-			String k=keys.next();
-			System.out.print(k+"  ");
-			System.out.print(jsonobject.get(k));
-			System.out.println();
+			String key=keys.next();
+			System.out.println(key+" "+ob.get(key));
 		}
+		
 	
-
+	
+	
 	
 	
 
